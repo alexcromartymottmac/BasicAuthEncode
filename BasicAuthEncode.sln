@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAuthEncode", "ConsoleApp1\BasicAuthEncode.csproj", "{8F35C423-F019-40C6-ADC9-958B84A71D0A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAuthEncode", "BasicAuthEncode\BasicAuthEncode.csproj", "{8F35C423-F019-40C6-ADC9-958B84A71D0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
